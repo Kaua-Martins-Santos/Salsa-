@@ -1,0 +1,21 @@
+        NOVO PEDIDO PARA COZINHA        
+========================================
+Data/Hora: 17/11/2025 15:32:36
+Origem: Mesa 7
+Destino: Mesa 7
+----------------------------------------
+ITENS:
+----------------------------------------
+2x Farinha
+1x Queijo Cheddar
+1x Tomate
+1x Batata Palito
+1x Refrigerante Lata
+----------------------------------------
+TOTAL DE ITENS: 6
+========================================
+
+
+
+
+
